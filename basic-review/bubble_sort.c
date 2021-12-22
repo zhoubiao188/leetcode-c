@@ -1,8 +1,3 @@
-#include<stdio.h>
-#include<stdbool.h>
-#define MAX_N 10
-int n;
-int array[MAX_N + 5];
 /*************************
  * @author zhoubiao
  * @date 2021/12/22
@@ -10,6 +5,11 @@ int array[MAX_N + 5];
  * 
  * *********************************/
 
+#include<stdio.h>
+#include<stdbool.h>
+#define MAX_N 10
+int n;
+int array[MAX_N + 5];
 
 void read_data() {
     int i;
