@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 #include<stdbool.h>
-#define MAX_N 10
+#define MAX_N 10000
 int n;
 int array[MAX_N + 5];
 
@@ -52,7 +52,6 @@ void bubble_sort(int *array, int n) {
 
 int main() {
     read_data();
-    int cnt = 1;
     int i;
     bubble_sort(array, n);
     printf("[");
