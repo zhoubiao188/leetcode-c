@@ -1,0 +1,5 @@
+# ninja log v5
+0	48	1689863976164005659	CMakeFiles/leetcode_c.dir/basic-review/quick_select.c.o	3d34f9a56885412c
+0	48	1689863976163879909	CMakeFiles/leetcode_c.dir/basic-review/bubble_sort.c.o	9ecf0dd7b1eb8515
+1	48	1689863976164605495	CMakeFiles/leetcode_c.dir/basic-review/quick_sort.c.o	9736f206787f4711
+0	23	1689864240589302882	CMakeFiles/leetcode_c.dir/basic-review/depth.c.o	80bb050380a65c40
